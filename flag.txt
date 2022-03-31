@@ -1,1 +1,3 @@
 Nosey parker.
+
+https://tryhackme.com/p/GhostPlague
